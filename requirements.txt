@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-groq
+python-dotenv
+pydantic
+arxiv
+wikipedia
+langgraph-cli[inmem]
