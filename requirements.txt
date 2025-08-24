@@ -9,3 +9,6 @@ pydantic
 arxiv
 wikipedia
 langgraph-cli[inmem]
+sentence-transformers
+faiss-cpu
+tiktoken
